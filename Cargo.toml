@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-l_alg = {path="../l_alg"}
+l_alg = {git="https://github.com/DonReek/l_alg.git"}
